@@ -2,7 +2,8 @@
 Analysis of Algorithms Final Project (Spring 2018)
 
 # Author
-Jen-Yin Chao: Main Code, R package using part, and Nonhierarchical part
+Jen-Yin Chao: Main Code, R package using part, and Nonhierarchical 
+
 Meng-Tse Li: Hierarchical part (Directed by Jen-Yin Chao)
 
 # Abstract
